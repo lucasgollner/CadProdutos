@@ -1,4 +1,4 @@
-## Bem vindo ao Projeto DIALHOST
+## Bem vindo ao Projeto CADASTRO DE PRODUTOS
 
 ***
 
